@@ -770,4 +770,41 @@ a:visited{
     .mes{
         display: flex;
     }
+    
+}
+@media screen and (max-width:376px){
+    .nav-img{
+        margin-left:-100px;
+    }
+    .scrol-two{
+        width: 375px;
+    }
+    .img-two-burger img{
+        width: 375px;
+        height: 300px;
+    }    
+    .free-burger img, .four-burger img{
+        width: 375px;
+        height: 130px;
+        margin: 30px 0 0 0;
+    }
+    /*DISCOVER*/
+    
+    .img{
+        width: 120px;
+        height: 120px;
+    }
+    /*RESERVATION*/
+    
+    .reg input[type=text]{
+        width: 350px;
+    }
+    .etb-b{
+        width: 360px;
+    }
+    /*hooter*/
+    .company{
+        font-size: 14px;
+    }
+    
 }
