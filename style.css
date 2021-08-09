@@ -739,6 +739,9 @@ a:visited{
         display: none;
     }
     /*hooter*/
+    .hoter{
+        margin-left: 10px;
+    }
     .hut-h img{
         display: none;
     }
